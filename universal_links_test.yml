@@ -1,0 +1,21 @@
+domain:
+  pc: test.com
+  sp: s.test.com
+
+uriData:
+ - pageName: top
+   uri: /hogehoge/
+   pc: false
+   sp: true
+ - pageName: rstTop
+   uri: /hogehoge/hoge
+   pc: true
+   sp: true
+ - pageName: hoge
+   uri: /hogehoge/
+   pc: false
+   sp: true
+ - pageName: rstTop2
+   uri: /hogehoge/hoge
+   pc: true
+   sp: true
